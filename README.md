@@ -41,6 +41,4 @@ The Rules as - YOU VS COMPUTER
 # Made By
 Akash Chaurasiya
 
-https://api.codiga.io/project/30083/score/svg
 
-https://api.codiga.io/project/30083/status/svg
