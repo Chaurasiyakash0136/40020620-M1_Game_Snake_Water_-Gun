@@ -1,3 +1,6 @@
+![Build Status](https://api.codiga.io/project/30083/score/svg)
+![Build Status](https://api.codiga.io/project/30083/status/svg)
+
 # 40020620-M1_Game_Snake_Water_-Gun
 
 # Introduction:
